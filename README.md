@@ -22,10 +22,11 @@ GETTING STARTED
 https://github.com/MikeLierman/DeviceProber/releases
 
 ### Important Notes
-* Script isn't perfect. Let me know if you run into issues.
+* IT IS INCREDIBLY IMPORTANT THAT YOU REMEMBER TO SET THE TIME OUT ON ALL OF MY SCRIPTS, INCLUDING THIS ONE, TO 120 SECONDS. Not doing this will result in an error instead of a working script.
+* If you are setting up both the Daily and the 24/7 Check, the Daily might fail with an error because both checks are running at the same time. Wait for one to finish and rerun it if you care to. Otherwise, it will correct itself on next run.
 
 ### Known Bugs
-* ?
+* None known. Tested extensively.
 
 ### Planned Features
 * ?
